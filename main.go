@@ -20,7 +20,7 @@ func main() {
 	// fmt.Println(pkg.ModifySpaces("site com", "dash"))
 	// fmt.Println(pkg.ModifySpaces("site com", "www"))
 
-	fmt.Println(pkg.ErrorMessageToCode("OK"))
+	// fmt.Println(pkg.ErrorMessageToCode("OK"))
 	fmt.Println(pkg.ErrorMessageToCode("CANCELLED"))
 	fmt.Println(pkg.ErrorMessageToCode("err"))
 }
